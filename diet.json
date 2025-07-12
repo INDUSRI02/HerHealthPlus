@@ -1,0 +1,18 @@
+{
+  "eat": [
+    "Leafy greens (spinach, kale)",
+    "Low GI fruits (berries, apples)",
+    "Whole grains (oats, quinoa)",
+    "Legumes (lentils, chickpeas)",
+    "Cinnamon and turmeric",
+    "Nuts and seeds (flax, chia)"
+  ],
+  "avoid": [
+    "Sugar and sweets",
+    "Refined carbs (white bread, pasta)",
+    "Fried foods",
+    "Red meat",
+    "Dairy products",
+    "Caffeinated drinks"
+  ]
+}
